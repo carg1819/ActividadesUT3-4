@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:ActividadesUT3_4"
         mc:Ignorable="d"
-        Title="MainWindow" MinHeight="620"  MinWidth="730" Width="730" Height="620">
+        Title="Imagenes edición" MinHeight="620"  MinWidth="730" Width="730" Height="620" Icon="48 (1).ico">
     <DockPanel LastChildFill="True">
         
         <DockPanel DockPanel.Dock="Bottom" Height="88" Background="LightBlue" LastChildFill="False">
